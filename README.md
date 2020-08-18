@@ -5,12 +5,12 @@ Have you ever wondered if you were a dog what breed you will be ? This program w
 
 
 
-
+# Data Set
 Link for the dataset: https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
 
 
 
 
-
+# Score
 Using resnet50 
 I got 75% accuracy with 20 epoch
